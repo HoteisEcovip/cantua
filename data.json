@@ -235,7 +235,24 @@
         "informacoes": [
           "Check-in a partir das 14h e check-out até 12h."
         ],
-        "fotos": []
+        "fotos": [
+          {
+            "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
+            "alt": "Luxo Quádruplo — foto 1"
+          },
+          {
+            "src": "img/quartos/luxo-triplo-musnmtgz4v0.webp",
+            "alt": "Luxo Quádruplo — foto 2"
+          },
+          {
+            "src": "img/quartos/luxo-triplo-musnmuj48bw.webp",
+            "alt": "Luxo Quádruplo — foto 3"
+          },
+          {
+            "src": "img/quartos/luxo-triplo-musnmv664l7.webp",
+            "alt": "Luxo Quádruplo — foto 4"
+          }
+        ]
       },
       {
         "id": "master",
