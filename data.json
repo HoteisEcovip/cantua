@@ -2117,6 +2117,11 @@
         "texto": "Toalhas de banho e de rosto inclusas na hospedagem."
       },
       {
+        "icone": "restaurante",
+        "titulo": "Restaurante",
+        "texto": "Com pedidos à parte, para você aproveitar sem precisar sair."
+      },
+      {
         "icone": "cafe",
         "titulo": "Café da manhã",
         "texto": "A manhã começa sem despertador e com café passado."
