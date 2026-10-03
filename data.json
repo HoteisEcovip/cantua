@@ -342,6 +342,37 @@
     "titulo": "Para a sua pausa começar tranquila.",
     "itens": [
       {
+        "id": "onibus",
+        "icone": "onibus",
+        "titulo": "Como chegar de ônibus",
+        "texto": "De BH pela Viação Serro ou Saritur",
+        "textos": [
+          "Você pode embarcar na Viação Serro ou na Viação Saritur, na Rodoviária de BH. Ao comprar a passagem, diga que está indo para a Serra do Cipó."
+        ],
+        "passos": [
+          "Ao agente de bordo, diga que vai desembarcar em frente ao Restaurante Sheriff.",
+          "Ao desembarcar, atravesse para o outro lado da rua. Um pouquinho abaixo do Sheriff, entre na rua de terra.",
+          "Essa é a rua da Pousada Cantuá. Siga por ela cerca de 150 metros até a pousada."
+        ],
+        "blocos": [
+          {
+            "titulo": "Dicas de sinal e mapa",
+            "itens": [
+              "Abra a localização da pousada no Google Maps e amplie o mapa bem na área da pousada, para ele atualizar os mapas da região.",
+              "Ative o modo offline do Google Maps, caso fique sem rede de dados.",
+              "Na região, as redes que funcionam bem são VIVO e CLARO. OI e TIM funcionam em pouquíssimos lugares."
+            ]
+          }
+        ],
+        "botoes": [
+          {
+            "texto": "Abrir localização no Google Maps",
+            "url": "https://maps.app.goo.gl/PGv5hyB5WtwfrYoe9",
+            "icone": "mapa"
+          }
+        ]
+      },
+      {
         "id": "taxi",
         "icone": "carro",
         "titulo": "Taxistas",
