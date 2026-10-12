@@ -2180,8 +2180,8 @@
     ]
   },
   "beneficios": {
-    "titulo": "Hospedando na Cantuá, você também aproveita benefícios da EcoVip.",
-    "intro": "A Cantuá faz parte do Grupo EcoVip e oferece benefícios para tornar a sua pausa ainda mais completa:",
+    "titulo": "Hospedando na Cantuá, você tem condições especiais em serviços da EcoVip.",
+    "intro": "A Cantuá faz parte do Grupo EcoVip e oferece serviços extras com preço especial para seus hóspedes.",
     "itens": [
       {
         "id": "monjolos",
@@ -2196,7 +2196,7 @@
           ],
           "blocos": [
             {
-              "titulo": "O que está incluso",
+              "titulo": "O que o pacote inclui",
               "itens": [
                 "Almoço (das 12h às 14h)",
                 "Acesso ao bar e ao salão de jogos",
@@ -2255,7 +2255,8 @@
               "alt": "Cachoeira Monjolos + almoço — foto 12"
             }
           ]
-        }
+        },
+        "preco": "Valor sob consulta na recepção"
       },
       {
         "id": "passeios",
@@ -2294,7 +2295,8 @@
               "whatsapp": "Olá! Quero reservar um passeio com o guia (desconto de 5% para hóspedes EcoVip)."
             }
           ]
-        }
+        },
+        "preco": "Passeio pago à parte, com 5% de desconto"
       },
       {
         "id": "massagem",
@@ -2325,7 +2327,8 @@
           ],
           "fotos": [],
           "nota": "Agende na recepção da pousada."
-        }
+        },
+        "preco": "A partir de R$ 190,00 por pessoa"
       },
       {
         "id": "decoracao",
@@ -2386,10 +2389,12 @@
               "alt": "Decoração especial — foto 7"
             }
           ]
-        }
+        },
+        "preco": "A partir de R$ 200,00"
       }
     ],
-    "fecho": "Você descansa. Nós cuidamos."
+    "fecho": "Você descansa. Nós cuidamos.",
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
   },
   "galeria": {
     "eyebrow": "Galeria",
