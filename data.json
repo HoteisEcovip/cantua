@@ -147,12 +147,12 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-duplo-musnmd9b6r8.webp",
-            "alt": "Luxo Duplo — foto 1"
-          },
-          {
             "src": "img/quartos/luxo-duplo-musnmdvg1yp.webp",
             "alt": "Luxo Duplo — foto 2"
+          },
+          {
+            "src": "img/quartos/luxo-duplo-musnmd9b6r8.webp",
+            "alt": "Luxo Duplo — foto 1"
           },
           {
             "src": "img/quartos/luxo-duplo-musnmendw27.webp",
@@ -196,6 +196,11 @@
         ],
         "fotos": [
           {
+            "src": "img/quartos/suite-standard-mv6ray6xdoq.webp",
+            "mini": "img/quartos/suite-standard-mv6ray6xdoq.m.webp",
+            "alt": "Suíte Standard — foto 4"
+          },
+          {
             "src": "img/quartos/suite-standard-mv6raozoj70.webp",
             "mini": "img/quartos/suite-standard-mv6raozoj70.m.webp",
             "alt": "Suíte Standard — foto 1"
@@ -209,11 +214,6 @@
             "src": "img/quartos/suite-standard-mv6rapniul4.webp",
             "mini": "img/quartos/suite-standard-mv6rapniul4.m.webp",
             "alt": "Suíte Standard — foto 3"
-          },
-          {
-            "src": "img/quartos/suite-standard-mv6ray6xdoq.webp",
-            "mini": "img/quartos/suite-standard-mv6ray6xdoq.m.webp",
-            "alt": "Suíte Standard — foto 4"
           },
           {
             "src": "img/quartos/suite-standard-mv6rbcznu8v.webp",
@@ -288,12 +288,12 @@
         ],
         "fotos": [
           {
-            "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
-            "alt": "Luxo Triplo — foto 1"
-          },
-          {
             "src": "img/quartos/luxo-triplo-musnmtgz4v0.webp",
             "alt": "Luxo Triplo — foto 2"
+          },
+          {
+            "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
+            "alt": "Luxo Triplo — foto 1"
           },
           {
             "src": "img/quartos/luxo-triplo-musnmuj48bw.webp",
@@ -331,6 +331,10 @@
         ],
         "fotos": [
           {
+            "src": "img/quartos/luxo-triplo-musnmv664l7.webp",
+            "alt": "Luxo Quádruplo — foto 4"
+          },
+          {
             "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
             "alt": "Luxo Quádruplo — foto 1"
           },
@@ -341,10 +345,6 @@
           {
             "src": "img/quartos/luxo-triplo-musnmuj48bw.webp",
             "alt": "Luxo Quádruplo — foto 3"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-musnmv664l7.webp",
-            "alt": "Luxo Quádruplo — foto 4"
           }
         ]
       },
@@ -380,12 +380,34 @@
             "alt": "Master — foto 1"
           },
           {
-            "src": "img/quartos/master-musnnjn2yup.webp",
+            "src": "img/quartos/master-mv6s0ffscw4.webp",
+            "mini": "img/quartos/master-mv6s0ffscw4.m.webp",
+            "alt": "Master — foto 2"
+          },
+          {
+            "src": "img/quartos/master-mv6s0fz7c3m.webp",
+            "mini": "img/quartos/master-mv6s0fz7c3m.m.webp",
             "alt": "Master — foto 3"
           },
           {
-            "src": "img/quartos/master-musnnkebv82.webp",
-            "alt": "Master — foto 4"
+            "src": "img/quartos/master-mv6s0h0rals.webp",
+            "mini": "img/quartos/master-mv6s0h0rals.m.webp",
+            "alt": "Master — foto 5"
+          },
+          {
+            "src": "img/quartos/master-mv6s0hkf7hv.webp",
+            "mini": "img/quartos/master-mv6s0hkf7hv.m.webp",
+            "alt": "Master — foto 6"
+          },
+          {
+            "src": "img/quartos/master-mv6s0i2oups.webp",
+            "mini": "img/quartos/master-mv6s0i2oups.m.webp",
+            "alt": "Master — foto 7"
+          },
+          {
+            "src": "img/quartos/master-mv6s0ik0t1y.webp",
+            "mini": "img/quartos/master-mv6s0ik0t1y.m.webp",
+            "alt": "Master — foto 8"
           }
         ]
       }
