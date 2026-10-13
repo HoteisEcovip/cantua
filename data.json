@@ -169,6 +169,100 @@
         ]
       },
       {
+        "id": "suite-standard",
+        "nome": "Suíte Standard",
+        "chamada": "O mesmo cuidado, num espaço mais compacto.",
+        "capacidade": 2,
+        "camas": "Cama de casal",
+        "caracteristicas": [
+          "Sem varanda"
+        ],
+        "disponivel": [
+          {
+            "icone": "wifi",
+            "texto": "Wi-Fi de cortesia"
+          },
+          {
+            "icone": "chuveiro",
+            "texto": "Chuveiro quente"
+          },
+          {
+            "icone": "cafe",
+            "texto": "Café da manhã incluso"
+          }
+        ],
+        "informacoes": [
+          "Check-in a partir das 14h e check-out até 12h."
+        ],
+        "fotos": [
+          {
+            "src": "img/quartos/suite-standard-mv6raozoj70.webp",
+            "mini": "img/quartos/suite-standard-mv6raozoj70.m.webp",
+            "alt": "Suíte Standard — foto 1"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rapcwuey.webp",
+            "mini": "img/quartos/suite-standard-mv6rapcwuey.m.webp",
+            "alt": "Suíte Standard — foto 2"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rapniul4.webp",
+            "mini": "img/quartos/suite-standard-mv6rapniul4.m.webp",
+            "alt": "Suíte Standard — foto 3"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6ray6xdoq.webp",
+            "mini": "img/quartos/suite-standard-mv6ray6xdoq.m.webp",
+            "alt": "Suíte Standard — foto 4"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rbcznu8v.webp",
+            "mini": "img/quartos/suite-standard-mv6rbcznu8v.m.webp",
+            "alt": "Suíte Standard — foto 5"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rbsaipr2.webp",
+            "mini": "img/quartos/suite-standard-mv6rbsaipr2.m.webp",
+            "alt": "Suíte Standard — foto 6"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rc7a90r4.webp",
+            "mini": "img/quartos/suite-standard-mv6rc7a90r4.m.webp",
+            "alt": "Suíte Standard — foto 7"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rcm2z4kh.webp",
+            "mini": "img/quartos/suite-standard-mv6rcm2z4kh.m.webp",
+            "alt": "Suíte Standard — foto 8"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rcyh3epd.webp",
+            "mini": "img/quartos/suite-standard-mv6rcyh3epd.m.webp",
+            "alt": "Suíte Standard — foto 9"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rd6f1dy2.webp",
+            "mini": "img/quartos/suite-standard-mv6rd6f1dy2.m.webp",
+            "alt": "Suíte Standard — foto 10"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rdimz3u9.webp",
+            "mini": "img/quartos/suite-standard-mv6rdimz3u9.m.webp",
+            "alt": "Suíte Standard — foto 11"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rdnkgu7l.webp",
+            "mini": "img/quartos/suite-standard-mv6rdnkgu7l.m.webp",
+            "alt": "Suíte Standard — foto 12"
+          },
+          {
+            "src": "img/quartos/suite-standard-mv6rdrudw2u.webp",
+            "mini": "img/quartos/suite-standard-mv6rdrudw2u.m.webp",
+            "alt": "Suíte Standard — foto 13"
+          }
+        ]
+      },
+      {
         "id": "luxo-triplo",
         "nome": "Luxo Triplo",
         "chamada": "Conforto para descansar em família.",
