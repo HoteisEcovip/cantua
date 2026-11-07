@@ -35,7 +35,7 @@
     "logo": "img/logo-ecovip.png",
     "url": "https://hoteisecovip.com.br/",
     "site": "https://hoteisecovip.com.br/",
-    "instagram": "https://instagram.com/ecovipcipo"
+    "instagram": "https://www.instagram.com/redeecovip/"
   },
   "hero": {
     "imagem": "img/capa-muwk3gaa0vh.webp",
@@ -88,10 +88,6 @@
         "alt": "Conheça a pousada — foto 12"
       },
       {
-        "src": "img/sobre/sobre-musneif4p4s.webp",
-        "alt": "Conheça a pousada — foto 14"
-      },
-      {
         "src": "img/sobre/sobre-musneiwzcf4.webp",
         "alt": "Conheça a pousada — foto 15"
       },
@@ -110,10 +106,6 @@
       {
         "src": "img/sobre/sobre-musnekqkup7.webp",
         "alt": "Conheça a pousada — foto 19"
-      },
-      {
-        "src": "img/sobre/sobre-musnel7x6fu.webp",
-        "alt": "Conheça a pousada — foto 20"
       }
     ]
   },
@@ -140,6 +132,26 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "check",
+            "texto": "Secador de cabelo"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Espelho de corpo"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
+          },
+          {
+            "icone": "tv",
+            "texto": "Smart TV"
           }
         ],
         "informacoes": [
@@ -175,7 +187,7 @@
         "capacidade": 2,
         "camas": "Cama de casal",
         "caracteristicas": [
-          "Sem varanda"
+          "Varanda compartilhada"
         ],
         "disponivel": [
           {
@@ -189,6 +201,18 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "ar",
+            "texto": "Ar-condicionado"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
           }
         ],
         "informacoes": [
@@ -281,6 +305,26 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "check",
+            "texto": "Secador de cabelo"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Espelho de corpo"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
+          },
+          {
+            "icone": "tv",
+            "texto": "Smart TV"
           }
         ],
         "informacoes": [
@@ -292,16 +336,8 @@
             "alt": "Luxo Triplo — foto 2"
           },
           {
-            "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
-            "alt": "Luxo Triplo — foto 1"
-          },
-          {
             "src": "img/quartos/luxo-triplo-musnmuj48bw.webp",
             "alt": "Luxo Triplo — foto 3"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-musnmv664l7.webp",
-            "alt": "Luxo Triplo — foto 4"
           }
         ]
       },
@@ -324,6 +360,26 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "check",
+            "texto": "Secador de cabelo"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Espelho de corpo"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
+          },
+          {
+            "icone": "tv",
+            "texto": "Smart TV"
           }
         ],
         "informacoes": [
@@ -332,19 +388,11 @@
         "fotos": [
           {
             "src": "img/quartos/luxo-triplo-musnmv664l7.webp",
-            "alt": "Luxo Quádruplo — foto 4"
+            "alt": "Luxo Triplo — foto 4"
           },
           {
             "src": "img/quartos/luxo-triplo-musnmsrz65p.webp",
-            "alt": "Luxo Quádruplo — foto 1"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-musnmtgz4v0.webp",
-            "alt": "Luxo Quádruplo — foto 2"
-          },
-          {
-            "src": "img/quartos/luxo-triplo-musnmuj48bw.webp",
-            "alt": "Luxo Quádruplo — foto 3"
+            "alt": "Luxo Triplo — foto 1"
           }
         ]
       },
@@ -355,7 +403,8 @@
         "capacidade": 2,
         "camas": "Cama de casal",
         "caracteristicas": [
-          "Hidromassagem"
+          "Hidromassagem",
+          "2 chuveiros"
         ],
         "disponivel": [
           {
@@ -369,6 +418,26 @@
           {
             "icone": "cafe",
             "texto": "Café da manhã incluso"
+          },
+          {
+            "icone": "check",
+            "texto": "Secador de cabelo"
+          },
+          {
+            "icone": "frigobar",
+            "texto": "Frigobar"
+          },
+          {
+            "icone": "check",
+            "texto": "Espelho de corpo"
+          },
+          {
+            "icone": "check",
+            "texto": "Armário"
+          },
+          {
+            "icone": "tv",
+            "texto": "Smart TV"
           }
         ],
         "informacoes": [
@@ -1970,7 +2039,7 @@
               ]
             }
           ],
-          "nota": "Solicite mais informações na recepção da pousada. Relaxe, aproveite e viva o melhor da Rede EcoVip!",
+          "nota": "Relaxe, aproveite e viva o melhor da Rede EcoVip!",
           "fotos": [
             {
               "src": "img/beneficios/monjolos-muri1n7ey9w.webp",
@@ -1993,10 +2062,6 @@
               "alt": "Cachoeira Monjolos + almoço — foto 5"
             },
             {
-              "src": "img/beneficios/monjolos-muri21hl60d.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 6"
-            },
-            {
               "src": "img/beneficios/monjolos-muri21og55j.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 7"
             },
@@ -2015,14 +2080,10 @@
             {
               "src": "img/beneficios/monjolos-muri239vxnm.webp",
               "alt": "Cachoeira Monjolos + almoço — foto 11"
-            },
-            {
-              "src": "img/beneficios/monjolos-muri23gy677.webp",
-              "alt": "Cachoeira Monjolos + almoço — foto 12"
             }
           ]
         },
-        "preco": "Valor sob consulta na recepção"
+        "preco": "Valor sob consulta"
       },
       {
         "id": "passeios",
@@ -2068,7 +2129,7 @@
         "id": "massagem",
         "icone": "massagem",
         "titulo": "Massagem relaxante",
-        "texto": "Realizada por profissionais parceiros. Confira a disponibilidade na recepção.",
+        "texto": "Realizada por profissionais parceiros.",
         "botao": "Ver detalhes",
         "detalhes": {
           "destaque": "Sessão de 50 minutos",
@@ -2087,12 +2148,11 @@
               "titulo": "Agendamento",
               "itens": [
                 "Sinal de R$ 60,00 via Pix",
-                "Valor restante pago diretamente na recepção"
+                "Valor restante pago diretamente na pousada"
               ]
             }
           ],
-          "fotos": [],
-          "nota": "Agende na recepção da pousada."
+          "fotos": []
         },
         "preco": "A partir de R$ 190,00 por pessoa"
       },
@@ -2124,7 +2184,7 @@
               ]
             }
           ],
-          "nota": "Surpreenda quem você ama com momentos inesquecíveis! Peça a sua na recepção.",
+          "nota": "Surpreenda quem você ama com momentos inesquecíveis!",
           "fotos": [
             {
               "src": "img/beneficios/decoracao-murj5lew20x.webp",
@@ -2160,7 +2220,7 @@
       }
     ],
     "fecho": "Você descansa. Nós cuidamos.",
-    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade na recepção."
+    "aviso": "São serviços extras, pagos à parte, com condições especiais para hóspedes. Consulte valores e disponibilidade pelo WhatsApp."
   },
   "galeria": {
     "eyebrow": "Galeria",
